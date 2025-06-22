@@ -19,7 +19,7 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
  
 
 <img src="images/servicos.png" alt="Gráfico de Churn" width="600" />
-![preço dos serviços](images/preco-servicos.png)
+<img src="images/preco-servico.png" alt="Gráfico de Churn">
 
 
 - O plano intermediário concentra a maioria dos cancelamentos, apresentando alto churn apesar do preço próximo ao plano completo.
@@ -27,7 +27,7 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
 
 ## 3. Churn por Tipo de Contrato
 
-<img src="assets/gráfico-tipo-contrato.png" alt="Gráfico de Churn" width="600" />
+<img src="images/gráfico-tipo-contrato.png" alt="Gráfico de Churn" width="600" />
 
 **Insight:** Contratos mais longos reduzem significativamente a rotatividade.
 
