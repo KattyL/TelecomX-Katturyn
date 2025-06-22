@@ -8,7 +8,7 @@ Este projeto apresenta a análise sobre os fatores que influenciam a taxa de chu
 
 Para investigar o impacto da composição familiar na retenção de clientes, cruzamos as variáveis `customer_Partner` e `customer_Dependents` em uma métrica composta chamada `partner_dependents`.
 
-<img src="assets/grafico-dependentes.png" alt="Gráfico de Churn" width="600" />
+<img src="images/grafico-dependentes.png" alt="Gráfico de Churn" width="600" />
 
 **Insight:**  
 Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indicando maior estabilidade contratual. Esses perfis são menos propensos a cancelar serviços.
@@ -18,12 +18,9 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
 ## 2. Churn por Nível de Serviço
  
 
-<img src="assets/servicos.png" alt="Gráfico de Churn" width="600" />
-| **Nível de Serviço**         | **Preço Médio (R$)** |
-|-----------------------------|----------------------:|
-| Serviço completo            |                91,02  |
-| Serviços básicos            |                28,95  |
-| Serviços intermediários     |                69,18  |
+<img src="images/servicos.png" alt="Gráfico de Churn" width="600" />
+![preço dos serviços](images/preco-servicos.png)
+
 
 - O plano intermediário concentra a maioria dos cancelamentos, apresentando alto churn apesar do preço próximo ao plano completo.
 - Indica baixa percepção de valor por parte dos clientes.
@@ -36,7 +33,7 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
 
 ## 4. Churn por Forma de Pagamento
 
-<img src="assets/gráfico-forma-pag.png" alt="Gráfico de Churn" width="600" />
+<img src="images/gráfico-forma-pag.png" alt="Gráfico de Churn" width="600" />
 
 - Cheque eletrônico: alta taxa de churn.  
 - Pagamentos automáticos (cartão/débito): maior retenção.
@@ -44,7 +41,7 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
 
 ## 5. Churn por Período de Contrato
 
-<img src="assets/periodo-contrato.png" alt="Gráfico de Churn" width="600" />
+<img src="images/periodo-contrato.png" alt="Gráfico de Churn" width="600" />
 
 - Clientes que optam pelo plano mensal têm altas chances de evasão.
 
