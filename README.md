@@ -71,3 +71,7 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
 ---
 
 Este repositório contém os scripts de análise, relatórios e visualizações que suportam essas conclusões.
+
+⚠️ Nota sobre variáveis excluídas
+As variáveis customer_gender e customer_SeniorCitizen não foram utilizadas na análise. Embora disponíveis, seu uso poderia introduzir viés indesejado, desviando o foco de fatores realmente estratégicos para retenção. O objetivo aqui é analisar comportamentos contratuais e percepções de valor, não características pessoais sensíveis.
+
