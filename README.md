@@ -19,6 +19,11 @@ Clientes com parceiro(a) e dependentes apresentam a menor taxa de churn, indican
  
 
 <img src="assets/servicos.png" alt="Gráfico de Churn" width="600" />
+| **Nível de Serviço**         | **Preço Médio (R$)** |
+|-----------------------------|----------------------:|
+| Serviço completo            |                91,02  |
+| Serviços básicos            |                28,95  |
+| Serviços intermediários     |                69,18  |
 
 - O plano intermediário concentra a maioria dos cancelamentos, apresentando alto churn apesar do preço próximo ao plano completo.
 - Indica baixa percepção de valor por parte dos clientes.
